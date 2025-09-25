@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akumaghosht
-- 👀 I’m interested in coding, game development
+- 👀 I’m interested in coding, web development, game development and learning new technologies.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on making a game
 - 📫 How to reach me @heartlessakuma on instagram or send me a friend request on discord my username: akumaheartless
