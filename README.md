@@ -11,7 +11,6 @@
     <li> :computer: Solving real life problems through Coding is a passion of mine. </li>
     <li> :globe_with_meridians: Learning new technologies and crafting solutions is my never-ending journey. </li>
     <li> :octocat: Fullstack Developer and a Game Dev enthusiast. </li>
-    <li> 🏆 Winner of multiple hackathons and always seeking new coding adventures! </li>
     <li> 📫 Reach out to me: <a href="mailto:tathagataghosh0111@gmail.com">tathagataghosh0111@gmail.com</a> </li>
   </b>
 </p>
