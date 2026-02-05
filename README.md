@@ -1,9 +1,7 @@
 <!-- @format -->
-
 ## Hey There :wave: It's Tathagata Ghosh <a.k.a Akuma/>
   <img src="https://komarev.com/ghpvc/?username=BismayDey&label=🕵️&color=blue" alt="bismay dey" />
 <hr>
-
 <p align="center">
   <b>
     <li> :house: Hi, I am Tathagata Ghosh from Kolkata, India. </li>
@@ -14,7 +12,6 @@
     <li> 📫 Reach out to me: <a href="mailto:tathagataghosh0111@gmail.com">tathagataghosh0111@gmail.com</a> </li>
   </b>
 </p>
-
  <br> <h2 align="left">💻 Tech Stack</h2>
 <p>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -53,6 +50,16 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="50" height="50" style="margin-right:15px;"/>
+  </a>
+  <br>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="50" height="50" style="margin-right:15px;"/>
+  </a>
+  <a href="https://www.nativewind.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="NativeWind" width="50" height="50" style="margin-right:15px;"/>
+  </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/expo/expo/main/.github/resources/banner.png" alt="Expo" width="50" height="50" style="margin-right:15px; object-fit: contain;"/>
   </a>
 </p>
 <b>
