@@ -12,56 +12,12 @@
     <li> 📫 Reach out to me: <a href="mailto:tathagataghosh0111@gmail.com">tathagataghosh0111@gmail.com</a> </li>
   </b>
 </p>
- <br> <h2 align="left">💻 Tech Stack</h2>
-<p>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <br>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <a href="https://www.nativewind.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="NativeWind" width="50" height="50" style="margin-right:15px;"/>
-  </a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/expo/expo/main/.github/resources/banner.png" alt="Expo" width="50" height="50" style="margin-right:15px; object-fit: contain;"/>
-  </a>
-</p>
-<b>
+
 <hr>
+
+## 💻 Tech Stack
+
+### 🗣️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=python"
