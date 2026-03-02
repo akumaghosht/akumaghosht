@@ -49,6 +49,7 @@
 ### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" style="margin-right:10px;"/>
 </p>
 
 ### 🛠️ Tools & DevOps
