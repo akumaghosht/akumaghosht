@@ -32,13 +32,14 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="margin-right:15px;"/>
   </a>
-  <br>
+  
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" style="margin-right:15px;"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" style="margin-right:15px;"/>
   </a>
+  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" style="margin-right:15px;"/>
   </a>
