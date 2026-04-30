@@ -19,47 +19,30 @@
 
 ### 🗣️ Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50" style="margin-right:10px;"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="margin-right:10px;"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" style="margin-right:10px;"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,c" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" style="margin-right:10px;"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" style="margin-right:10px;"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="50" height="50" style="margin-right:10px;"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 ### 📱 Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="50" height="50" style="margin-right:10px;"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="NativeWind" width="50" height="50" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/expo/expo/main/.github/resources/banner.png" alt="Expo" width="50" height="50" style="margin-right:10px; object-fit:contain;"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,expo" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" style="margin-right:10px;"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="margin-right:10px;"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
 ### 🛠️ Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
-
-<hr>
-```
-
-Just paste this into your `README.md` replacing the old tech stack section. You can also combine multiple skillicons in one URL if you want them on a single line, like:
-```
-https://skillicons.dev/icons?i=nodejs,express,mongodb
